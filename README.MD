@@ -1,1 +1,1 @@
-# Este es mi primer archivo readme 
+Trabajo Integrador de mineria datos 1
